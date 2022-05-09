@@ -1,0 +1,9 @@
+{
+    "type": "bare",
+	"dirtAmt": 0,
+	"hasChargeStation": true,
+	"northEdge": "obstacle",
+	"eastEdge": "obstacle",
+	"southEdge": "obstacle",
+	"westEdge": "obstacle"
+}

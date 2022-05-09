@@ -1,0 +1,79 @@
+[
+	[{
+		"type": "bare",
+		"dirtAmt": 0,
+		"hasChargeStation": false,
+		"northEdge": "obstacle",
+		"eastEdge": "open",
+		"southEdge": "open",
+		"westEdge": "obstacle"
+	}, {
+		"type": "lowCarpet",
+		"dirtAmt": 1,
+		"hasChargeStation": false,
+		"northEdge": "obstacle",
+		"eastEdge": "open",
+		"southEdge": "obstacle",
+		"westEdge": "open"
+	}, {
+		"type": "bare",
+		"dirtAmt": 2,
+		"hasChargeStation": false,
+		"northEdge": "obstacle",
+		"eastEdge": "obstacle",
+		"southEdge": "open",
+		"westEdge": "open"
+	}],
+
+	[{
+		"type": "lowCarpet",
+		"dirtAmt": 3,
+		"hasChargeStation": false,
+		"northEdge": "open",
+		"eastEdge": "obstacle",
+		"southEdge": "open",
+		"westEdge": "obstacle"
+	}, {
+		"type": "highCarpet",
+		"dirtAmt": 4,
+		"hasChargeStation": true,
+		"northEdge": "obstacle",
+		"eastEdge": "obstacle",
+		"southEdge": "open",
+		"westEdge": "obstacle"
+	}, {
+		"type": "lowCarpet",
+		"dirtAmt": 5,
+		"hasChargeStation": false,
+		"northEdge": "open",
+		"eastEdge": "obstacle",
+		"southEdge": "open",
+		"westEdge": "obstacle"
+	}],
+
+	[{
+		"type": "bare",
+		"dirtAmt": 6,
+		"hasChargeStation": false,
+		"northEdge": "open",
+		"eastEdge": "open",
+		"southEdge": "obstacle",
+		"westEdge": "obstacle"
+	}, {
+		"type": "lowCarpet",
+		"dirtAmt": 7,
+		"hasChargeStation": false,
+		"northEdge": "open",
+		"eastEdge": "open",
+		"southEdge": "stairs",
+		"westEdge": "open"
+	}, {
+		"type": "bare",
+		"dirtAmt": 8,
+		"hasChargeStation": false,
+		"northEdge": "open",
+		"eastEdge": "obstacle",
+		"southEdge": "obstacle",
+		"westEdge": "open"
+	}]
+]
